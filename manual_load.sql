@@ -1,6 +1,6 @@
-"""
-These queries can be excuted to load our tables with sample data, so we can test our data model and SQL logic
-"""
+/*
+These queries can be executed to load our tables with sample data, so we can test the data model and SQL logic
+*/
 ---RANDOM DATA INSERT
 DELETE FROM PV_PC.USERS_LOCATION;
 INSERT INTO PV_PC.USERS_LOCATION  -- INSERT DATA FOR THE PREVIOUS 10 DAYS
